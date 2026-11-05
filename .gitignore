@@ -1,0 +1,8 @@
+# Compilado de GNAT
+obj/
+*.exe
+*.ali
+*.o
+*.bexch
+*.stderr
+*.stdout
